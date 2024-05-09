@@ -1,0 +1,11 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend full course",
+  "main": "index.js",
+  "scripts": {
+    "test": "java"
+  },
+  "author": "himanshu rathore",
+  "license": "ISC"
+}
