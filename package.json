@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "backend full course",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "java"
+    "dev": "nodenom src/index.js"
+   
   },
   "author": "himanshu rathore",
   "license": "ISC"
