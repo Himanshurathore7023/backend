@@ -6,8 +6,10 @@
   "type": "module",
   "scripts": {
     "dev": "nodenom src/index.js"
-   
   },
   "author": "himanshu rathore",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
 }
